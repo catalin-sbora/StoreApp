@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "StoreApp\StoreApp.csproj", "{DA85F32A-4039-4D04-B6E9-642881EC4291}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMenuComponent", "ConsoleMenuComponent\ConsoleMenuComponent.csproj", "{14A7DB2C-AEE0-458B-9617-DB2E7B367B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA85F32A-4039-4D04-B6E9-642881EC4291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA85F32A-4039-4D04-B6E9-642881EC4291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA85F32A-4039-4D04-B6E9-642881EC4291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA85F32A-4039-4D04-B6E9-642881EC4291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A7DB2C-AEE0-458B-9617-DB2E7B367B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A7DB2C-AEE0-458B-9617-DB2E7B367B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A7DB2C-AEE0-458B-9617-DB2E7B367B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A7DB2C-AEE0-458B-9617-DB2E7B367B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D64E689-D28B-484C-AC98-7E30702536D0}
+	EndGlobalSection
+EndGlobal
